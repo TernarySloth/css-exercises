@@ -1,4 +1,9 @@
 .odd-numbered {
-    background-color: #fa9197;
+    background-color: hsl(357, 91%, 77%);
     font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue-text {
+    color: hsl(240, 98%, 44%);
+    font-size: 32px;
 }
